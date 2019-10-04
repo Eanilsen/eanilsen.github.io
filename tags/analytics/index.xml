@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eanblog</title>
-    <link>https://eanilsen.github.io/</link>
-    <description>Recent content on eanblog</description>
+    <title>analytics on eanblog</title>
+    <link>https://eanilsen.github.io/tags/analytics/</link>
+    <description>Recent content in analytics on eanblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 14:39:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 13:32:10 +0200</lastBuildDate>
     
-	<atom:link href="https://eanilsen.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eanilsen.github.io/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Who am I?</title>
-      <link>https://eanilsen.github.io/about/</link>
-      <pubDate>Fri, 04 Oct 2019 14:39:35 +0200</pubDate>
-      
-      <guid>https://eanilsen.github.io/about/</guid>
-      <description>Hello, I&amp;rsquo;m Even. I&amp;rsquo;m the Technical Implementation Manager for DNB. I work with optimizing data collection across the whole organization.
-This is the place where I will put my writings about projects I work on and general tips and tricks I have picked up during my time here.
-If you want to reach out to me you can reach me on my email evenanilsen@gmail.com. Here&amp;rsquo;s my GitHub and my linkedIn.</description>
-    </item>
     
     <item>
       <title>Audience Engagement - Improved Measurements</title>
